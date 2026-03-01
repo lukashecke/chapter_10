@@ -1,4 +1,4 @@
-module github.com/lukashecke/chapter_10
+module github.com/lukashecke/chapter_10/v2
 
 go 1.25.0
 
